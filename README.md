@@ -2,9 +2,6 @@
 <h3 align="center">Undergraduate | BSc (Hons) in Computer Science | General Sir John Kotelawala Defence University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenura0624&label=Profile%20views&color=0e75b6&style=flat" alt="thenura0624" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thenura0624" alt="thenura0624" /></a> </p>
-
 - 🌱 I’m currently learning **Deep learning**
 
 - 📫 How to reach me **thenurasurakkana@gmail.com**
