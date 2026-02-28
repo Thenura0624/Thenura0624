@@ -9,8 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/thenurasurakkana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thenurasurakkana" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/12500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="12500" height="30" width="40" /></a>
-  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Thenura0624=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+<a href="https://www.topcoder.com/members/12500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg"
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
