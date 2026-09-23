@@ -52,6 +52,12 @@
   <img src="https://streak-stats.demolab.com?user=Thenura0624&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thenura0624&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph" />
 </div>
+<div align="center">
+  <a href="https://leetcode.com">
+    <img src="https://jacoblin.cool" alt="LeetCode Stats" />
+  </a>
+</div>
+
 
 <br>
 
