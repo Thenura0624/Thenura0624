@@ -98,7 +98,7 @@
 
 <!-- LeetCode Stats (Replace 'your_username' with your LeetCode handle) -->
 <div align="center">
-  <a href="https://leetcode.com/thenurasurakkana" target="_blank">
+  <a href="https://leetcode.com/u/thenurasurakkana/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/your_username?theme=dark&font=Ubuntu" alt="LeetCode Stats" />
   </a>
 </div>
